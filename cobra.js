@@ -1,7 +1,4 @@
 // Jogo da Cobra (Snake Game)
-// Autor: Jan Bodnar
-// Adaptado por: Gilson Pereira
-// Código fonte original: http://zetcode.com/javascript/snake/
 // Feito por Iury Azevedo e Yana Costa
 
 // declaração de variáveis e constantes
